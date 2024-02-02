@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560196053001",
+    "project_id": "carstore-4499a",
+    "storage_bucket": "carstore-4499a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560196053001:android:9db7bc97bbc76dec7b30d8",
+        "android_client_info": {
+          "package_name": "com.example.carstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi2ihZxi9TQnKrvLtfBJIJmWtWFrfDcWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CarStore</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">register</string>
+    <string name="hey_buddy_welcome_login_now">Hey Buddy Welcome login Now</string>
+    <string name="Register">Register</string>
+    <string name="Login">Login</string>
+    <string name="Hey_Buddy_Welcome_Login_Now">Hey Buddy Welcome Login Now</string>
+    <string name="Password">Password</string>
+    <string name="Email">Email</string>
+    <string name="Hey_Buddy_Click_Here_To_Register">Hey Buddy Click here To Register</string>
+    <string name="Logout">logout</string>
+    <string name="Lets_Get_Started">Lets Get Started</string>
+    <string name="BUY_AND_CUSTOMS">BUY AND CUSTOMS</string>
+    <string name="BC">BC</string>
+    <string name="Buy_Premium_Luxury_And_All_Types_Of_Cars_Here">Buy Premium,Luxury And All Types Of Cars Here</string>
+
+
+</resources>
